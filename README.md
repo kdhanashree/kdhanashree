@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kdhanashree/kdhanashree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dhanashree 👋
 
-Here are some ideas to get you started:
+### Software Engineer @ DataAxle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+> Building scalable web applications and exploring modern backend systems, cloud, and full-stack architecture.
+
+---
+
+### ⚙️ Working With
+
+Python • Django • GraphQL • PostgreSQL • Next.js • TypeScript • AWS
+
+---
+
+### 🧠 Tech Stack
+
+Node.js • Express • React • MongoDB • PostgreSQL • Prisma • TypeScript • JavaScript • AWS
+
+---
+
+### 🌱 Currently
+
+- Improving backend system design
+- Exploring scalable architectures
+- Learning cloud-native development
+
+---
+
+<div align="center">
+
+### Learning one commit at a time.
+
+</div>
+
+---
+
+<div align="center">
+
+📫 LinkedIn:https://www.linkedin.com/in/dhanashree-kesarkar/  
+✉️ Email:kesarkardhanashreee@gmail.com
+
+</div>
