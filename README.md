@@ -2,7 +2,7 @@
 
 # Hi, I'm Dhanashree 👋
 
-### Software Engineer @ DataAxle
+### Software Engineer
 
 </div>
 
